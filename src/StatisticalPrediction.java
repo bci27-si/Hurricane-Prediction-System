@@ -1,4 +1,7 @@
-public class StatisticalPrediction extends HurricanePredictionTemplate{
+public class StatisticalPrediction
+        extends HurricanePredictionTemplate implements MachineLearningPredictionModel {
+
+
 
 
 
